@@ -9,7 +9,7 @@ This project has been created for demonstrating code to implement a Feature Stor
 
 The following assumptions were made for implementing the demonstration under sample-code:
 
- - System requirements: Snowflake and SageMaker
+ - System requirements: **Snowflake** and **SageMaker**
  - Feature Store technology preferences: none
  - Security: Feature Store access will be kept behind a company firewall on a private VPC; no requirement for exposure
  - Scale: Petabytes scaling towards exabyte level data lake
@@ -21,6 +21,7 @@ The following assumptions were made for implementing the demonstration under sam
 
 The directory contains the following files:
 
+<pre>
 .
 ├── LICENSE: Permissive license
 ├── README.md: This file
@@ -32,3 +33,4 @@ The directory contains the following files:
     ├── 5-Security_and_access_control.py
     ├── 6-Integration_with_ML_workflow.py
     └── 7-Documentation_and_metadata_management.py
+</pre>
