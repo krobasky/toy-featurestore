@@ -25,7 +25,7 @@ The directory contains the following files:
 .
 ├── LICENSE: Permissive license
 ├── README.md: This file
-└── sample-code: directory of sample code demonstrating best practices
+└── sample-code: directory of sample code demonstrating best practices for each of AWS Feature Store and HopsWorks, as comments indicate.
     ├── 1-Centralization.py
     ├── 2-Version_control.py
     ├── 3-Scalability_and_performance.py
